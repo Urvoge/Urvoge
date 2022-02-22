@@ -1,4 +1,4 @@
-![github stats](https://github-readme-stats.vercel.app/api?username=Urvoge&show_icons=true&border_color=ffffff)
+![github stats](https://github-readme-stats.vercel.app/api?username=Urvoge&show_icons=true&text_color=ffffff)
 
 <!--
 **Urvoge/Urvoge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
