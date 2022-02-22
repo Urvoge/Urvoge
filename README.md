@@ -1,6 +1,6 @@
 <table>
     <tr>
-        <td align="center>
+        <td align="center">
             <img align="center" src="https://github-readme-stats.vercel.app/api?username=Urvoge&show_icons=true&theme=github_dark&hide_border=true"/>
         </td>
         <td align="center">
